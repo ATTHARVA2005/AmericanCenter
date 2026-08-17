@@ -1,0 +1,19 @@
+1. Market Understanding and Relevance
+
+Evaluates how well the presentation explains the specific emerging market context, including local economic conditions, infrastructure, regulations, customer needs, and digital adoption trends.
+
+2. Business Model and Commercial Viability
+
+Assesses whether the AI business idea has a clear revenue model, realistic pricing, scalability potential, competitive positioning, and financial sustainability.
+
+3. Application of AI Technology
+
+Measures how effectively the presentation explains the AI solution itself, including its innovation, practicality, technical feasibility, data requirements, and suitability for the target market.
+
+4. Social, Ethical, and Regulatory Considerations
+
+Reviews whether the presentation addresses issues such as data privacy, bias, cybersecurity, accessibility, workforce impact, and compliance with local laws and ethical standards.
+
+5. Presentation Quality and Communication
+
+Evaluates clarity, organization, use of evidence or case studies, quality of visuals, audience engagement, and the presenter’s ability to answer questions effectively.

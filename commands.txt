@@ -1,0 +1,10 @@
+cd D:\Github\AmericanCenter\backend
+.\.venv\Scripts\Activate.ps1
+python -m uvicorn app.main:app --port 8000
+
+
+.\.venv\Scripts\python.exe -m uvicorn app.main:app --port 8000
+
+
+cd D:\Github\AmericanCenter\frontend
+npm run dev

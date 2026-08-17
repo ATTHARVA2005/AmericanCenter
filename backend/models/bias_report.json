@@ -1,0 +1,147 @@
+{
+  "n_test_samples": 33356,
+  "audits": [
+    {
+      "attribute": "derived_race",
+      "demographic_parity_difference": 0.20344690018351552,
+      "equalized_odds_difference": 0.17567567567567566,
+      "overall_selection_rate": 0.854251012145749,
+      "overall_accuracy": 0.8866696656170341,
+      "by_group": [
+        {
+          "group": "2 or more minority races",
+          "selection_rate": 0.7023809523809523,
+          "accuracy": 0.8333333333333334,
+          "false_negative_rate": 0.0,
+          "n": 84
+        },
+        {
+          "group": "American Indian or Alaska Native",
+          "selection_rate": 0.7763496143958869,
+          "accuracy": 0.8586118251928021,
+          "false_negative_rate": 0.02681992337164751,
+          "n": 389
+        },
+        {
+          "group": "Asian",
+          "selection_rate": 0.8295589988081049,
+          "accuracy": 0.8986889153754469,
+          "false_negative_rate": 0.017377567140600316,
+          "n": 839
+        },
+        {
+          "group": "Black or African American",
+          "selection_rate": 0.7718724448078496,
+          "accuracy": 0.8282910874897792,
+          "false_negative_rate": 0.03603034134007586,
+          "n": 2446
+        },
+        {
+          "group": "Joint",
+          "selection_rate": 0.8781456953642384,
+          "accuracy": 0.8887417218543047,
+          "false_negative_rate": 0.023064250411861616,
+          "n": 755
+        },
+        {
+          "group": "Native Hawaiian or Other Pacific Islander",
+          "selection_rate": 0.6746987951807228,
+          "accuracy": 0.8554216867469879,
+          "false_negative_rate": 0.021739130434782608,
+          "n": 83
+        },
+        {
+          "group": "Race Not Available",
+          "selection_rate": 0.8396279069767442,
+          "accuracy": 0.8658604651162791,
+          "false_negative_rate": 0.02670993509735397,
+          "n": 5375
+        },
+        {
+          "group": "White",
+          "selection_rate": 0.868828612988791,
+          "accuracy": 0.8978352015059468,
+          "false_negative_rate": 0.024567547490183594,
+          "n": 23374
+        }
+      ],
+      "flag": "review"
+    },
+    {
+      "attribute": "derived_sex",
+      "demographic_parity_difference": 0.09575705755035835,
+      "equalized_odds_difference": 0.11572065063649223,
+      "overall_selection_rate": 0.8542091377863054,
+      "overall_accuracy": 0.8866470799856098,
+      "by_group": [
+        {
+          "group": "Female",
+          "selection_rate": 0.8071399812105757,
+          "accuracy": 0.8734398067373507,
+          "false_negative_rate": 0.034855989726655656,
+          "n": 7451
+        },
+        {
+          "group": "Joint",
+          "selection_rate": 0.9028970387609341,
+          "accuracy": 0.9107615761174865,
+          "false_negative_rate": 0.01934199298378686,
+          "n": 12461
+        },
+        {
+          "group": "Male",
+          "selection_rate": 0.8261664261664262,
+          "accuracy": 0.8722462722462723,
+          "false_negative_rate": 0.028081123244929798,
+          "n": 10395
+        },
+        {
+          "group": "Sex Not Available",
+          "selection_rate": 0.865857658248606,
+          "accuracy": 0.8694653984913087,
+          "false_negative_rate": 0.02134927412467976,
+          "n": 3049
+        }
+      ],
+      "flag": "ok"
+    },
+    {
+      "attribute": "derived_ethnicity",
+      "demographic_parity_difference": 0.14154524141563585,
+      "equalized_odds_difference": 0.16842268842268843,
+      "overall_selection_rate": 0.8542972851357432,
+      "overall_accuracy": 0.8867556622168892,
+      "by_group": [
+        {
+          "group": "Ethnicity Not Available",
+          "selection_rate": 0.8483981693363845,
+          "accuracy": 0.8691838291380626,
+          "false_negative_rate": 0.02451352034369472,
+          "n": 5244
+        },
+        {
+          "group": "Hispanic or Latino",
+          "selection_rate": 0.7233924611973392,
+          "accuracy": 0.8752771618625277,
+          "false_negative_rate": 0.032062391681109186,
+          "n": 1804
+        },
+        {
+          "group": "Joint",
+          "selection_rate": 0.8464912280701754,
+          "accuracy": 0.8932748538011696,
+          "false_negative_rate": 0.02443609022556391,
+          "n": 684
+        },
+        {
+          "group": "Not Hispanic or Latino",
+          "selection_rate": 0.8649377026129751,
+          "accuracy": 0.8909893371870484,
+          "false_negative_rate": 0.025171736997055938,
+          "n": 25603
+        }
+      ],
+      "flag": "review"
+    }
+  ]
+}
